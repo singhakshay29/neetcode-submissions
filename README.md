@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/singhakshay29/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
