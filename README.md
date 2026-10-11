@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/singhakshay29/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -100,4 +101,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/singhakshay29/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
