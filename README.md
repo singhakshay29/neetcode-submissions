@@ -76,11 +76,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
