@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhakshay29/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/singhakshay29/neetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singhakshay29/neetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -85,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
