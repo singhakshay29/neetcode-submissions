@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/singhakshay29/neetcode-submissions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/singhakshay29/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/singhakshay29/neetcode-submissions/tree/master/0525-contiguous-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/singhakshay29/neetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -97,10 +98,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/singhakshay29/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/singhakshay29/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/singhakshay29/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/singhakshay29/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
@@ -126,4 +129,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/singhakshay29/neetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/singhakshay29/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
